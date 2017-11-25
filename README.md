@@ -3,7 +3,7 @@
 * Built on the `webpack` starter in `vue-cli`
 
 ## Live demo
-[narainsagar.github.io/spa-vue/](https://narainsagar.github.io/spa-vue/)
+[narainsagar.github.io/spa-vue2/](https://narainsagar.github.io/spa-vue2/)
 
 ## Setup / Run
 
